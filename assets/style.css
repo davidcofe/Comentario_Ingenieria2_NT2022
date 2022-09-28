@@ -1,0 +1,30 @@
+body{
+    padding: 1%;
+    background-color: darkgray !important;
+}
+
+.card{
+    color: white;
+    display: inline-block;
+    float: left;
+    margin: 1.25%;
+    width: 30%;
+}
+
+.card-body{
+    background-color: dimgray;
+    border-radius: 0px 0px 5px 5px;
+}
+
+#commentBody{
+    background-color: dimgray;
+    border-radius: 5px;
+}
+
+.btn-group{
+    background-color: white;
+}
+
+.card-subtitle{
+    color:darkgray;
+}
